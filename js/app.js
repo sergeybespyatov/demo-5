@@ -8102,7 +8102,7 @@
         nextArrow: ".slider-arrow_next",
         dots: !0,
         speed: 800,
-        verticalSwiping: !0,
+        verticalSwiping: 0,
         customPaging: 32,
         lazyLoad: !0,
         infinite: !0,

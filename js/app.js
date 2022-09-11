@@ -8110,7 +8110,7 @@
         variableWidth: !0,
         autoplay: !0,
         autoplaySpeed: 2e3,
-        swipeToSlide: !1,
+        swipeToSlide: !0,
         appendDots: ".controls-slider-main__dotts",
         customPaging: function (e, t) {
           $(e.$slides[t]).data();
